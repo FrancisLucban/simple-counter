@@ -1,5 +1,7 @@
 # 🔢 Simple Counter
 
+A simple project designed to explore JavaScript’s interactivity features while utilizing Node.js and Electron.
+
 ## 📖 How to Install
 1. Clone the repo
     ```
